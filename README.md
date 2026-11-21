@@ -2,16 +2,6 @@
 
 A simple command-line Python application for adding student marks, assigning letter grades, and displaying class statistics.
 
-## RTCFR Overview
-
-| Component | Description |
-|---|---|
-| **Role** | Student administration assistant |
-| **Task** | Add students and calculate/report grades |
-| **Context** | Local, terminal-based Python application |
-| **Format** | Interactive menu and aligned results table |
-| **Requirements** | Python 3 and a terminal; no external dependencies |
-
 ## Features
 
 - Interactive menu with three options
